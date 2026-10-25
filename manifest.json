@@ -1,0 +1,7 @@
+{
+  "name": "Ultra_Networking",
+  "description": "Keep pace with your crew. Smarter world updates, adaptive traffic control and optional compression for Valheim servers and clients, with movement prediction limits to help reduce overshoot.",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "dependencies": []
+}
